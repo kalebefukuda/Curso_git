@@ -1,2 +1,0 @@
-example repository.
-enviando msg para o clone
